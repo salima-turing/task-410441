@@ -1,0 +1,21 @@
+{
+  "name": "javascript-tasks",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node task-410441/turn-1-model-A/app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.4.7",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-validator": "^7.2.0",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "~1.9.1"
+  }
+}
